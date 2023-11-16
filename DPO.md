@@ -3,8 +3,8 @@
 Summary of the paper's abstract.
 
 ## Key Points
-- Point 1
-- Point 2
+- need to select the model's desired responses and behavior from its very wide knowledge and abilities
+- DPO directly optimizes for the policy best satisfying the preferences with a simple classification objective, without an explicit reward function or RL
 - ...
 
 ## Personal Insights
